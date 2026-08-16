@@ -478,33 +478,5 @@ python train.py --input image.png --lr 5e-4 --iterations 1500
 **علت**: ابعاد تصویر فرد است.
 **راه‌حل**: استفاده از `--crop_size` برای برش مرکزی.
 
----
-
-## ارجاع
-
-اگر از این کد در پروژه خود استفاده می‌کنید، لطفاً به مقاله اصلی ارجاع دهید:
-
-```bibtex
-@inproceedings{zhao2026zeroshot,
-  title={Zero-Shot Image Denoising via Hybrid Prior-Guided Pseudo Sample Generation},
-  author={Zhao, Xiaole and Pang, Qingsong and Zhang, Xiaobo and Xu, Xun and Gong, Xun and Yang, Yan and Li, Tianrui},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2026}
-}
-```
-
----
-
-## تماس و پشتیبانی
-
-- **ایمیل نویسنده اصلی**: zxlation@foxmail.com
-- **دانشگاه**: Southwest Jiaotong University, China
-- **کد منبع**: این پیاده‌سازی بر اساس مقاله CVPR 2026 تهیه شده است.
-
----
-
-<div align="center">
-
-**با تشکر از استفاده شما از ZS-HPD! 🎯**
 
 </div>
